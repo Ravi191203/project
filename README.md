@@ -11,6 +11,7 @@
     <li>Tkinter</li>
     <li>Os</li>
     <li>Messagebox</li>
+    <li>mysql.connector</li>
 </ul>
 
 <h3>To install external modules:</h3>
