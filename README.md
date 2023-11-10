@@ -9,6 +9,7 @@
 <h2>Libraries used:</h2>
 <ul>
     <li>Tkinter</li>
+    <li>Random</li>
     <li>Os</li>
     <li>Messagebox</li>
     <li>mysql.connector</li>
